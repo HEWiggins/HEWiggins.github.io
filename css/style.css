@@ -1,0 +1,69 @@
+body{
+    /* background-color: #F5CC27; */
+    background-image: linear-gradient(#C0C0C0,#f0ead6 );
+}
+
+.nav-bar{
+    background-color: #d9d9e8;
+}
+.nav-bar li a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #080808;
+}
+
+.nav-bar li {
+    list-style-type: none;
+}
+
+.nav-item :hover{
+    font-size: larger;
+    
+}
+
+.footer-bar li {
+    list-style-type: none;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #080808;
+}
+
+h2, h3, h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #080808;
+}
+.who-flex-container{
+    background-color: aqua;
+}
+.about-me-text{
+    background-color: yellow;
+    font-size: large;
+}
+.about-me-pic{
+    background-color: lime;
+}
+.what-flex-container{
+    background-color: aqua;
+}
+
+.what-item-text1{
+    background-color: whitesmoke;
+    font-size: large;
+  }
+  .what-item-text2{
+    background-color: purple;
+    font-size: large;
+  }
+  .what-item-text3{
+    background-color: orangered;
+    font-size: large;
+  }
+  .what-item-text4{
+    background-color: pink;
+    font-size: large;
+  }
+.vpa-gif{
+    background-color: lime;
+}
