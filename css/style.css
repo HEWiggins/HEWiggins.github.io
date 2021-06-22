@@ -17,8 +17,7 @@ body{
 }
 
 .nav-item :hover{
-    font-size: larger;
-    
+    font-size: larger;    
 }
 
 .footer-bar li {
@@ -34,7 +33,7 @@ h2, h3, h4{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #080808;
 }
-.who-flex-container{
+/* .who-flex-container{
     background-color: aqua;
 }
 .about-me-text{
@@ -66,4 +65,4 @@ h2, h3, h4{
   }
 .vpa-gif{
     background-color: lime;
-}
+} */
